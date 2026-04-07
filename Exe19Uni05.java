@@ -37,6 +37,8 @@ public class Exe19Uni05
         System.out.println("Media de altura: " + (somaAltura / i));
         System.out.println("Media de altura das mulheres: " + (somaF / contF));
 
+        teclado.close();
+
     }
 
 }
