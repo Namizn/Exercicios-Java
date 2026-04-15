@@ -13,7 +13,6 @@ public class Exe24Uni05 {
         float valorTotal = 0;
 
         do {
-
             System.out.println(
                     "Qual opção deseja?\n(1) encerrar a conta de um hóspede;\n(2) verificar número de contas encerradas;\n(3) sair.");
             opções = teclado.nextInt();
